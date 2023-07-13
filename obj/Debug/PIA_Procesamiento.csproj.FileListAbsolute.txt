@@ -1,0 +1,104 @@
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.AssemblyReference.cache
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.Form1.resources
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.Properties.Resources.resources
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.GenerateResource.cache
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.CoreCompileInputs.cache
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x64\concrt140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x64\cvextern.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x64\msvcp140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x64\vcruntime140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x86\concrt140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x86\cvextern.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x86\msvcp140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\x86\vcruntime140.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.exe.config
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.exe
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.pdb
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.Video.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\Emgu.CV.UI.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\Emgu.CV.World.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\OpenTK.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\OpenTK.GLControl.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\ZedGraph.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.Video.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\Emgu.CV.UI.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\Emgu.CV.World.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\OpenTK.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\OpenTK.GLControl.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\ZedGraph.xml
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.CopyComplete
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.exe
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.pdb
+C:\Users\janto\Documents\FCFM\Ene-Jun 2022\ProcesamientoImagenes\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.DetectorForm.resources
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x64\concrt140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x64\cvextern.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x64\msvcp140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x64\vcruntime140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x86\concrt140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x86\cvextern.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x86\msvcp140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\x86\vcruntime140.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.exe.config
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.exe
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\PIA_Procesamiento.pdb
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.Video.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\Emgu.CV.UI.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\Emgu.CV.World.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\OpenTK.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\OpenTK.GLControl.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\ZedGraph.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.Video.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\Emgu.CV.World.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\OpenTK.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\OpenTK.GLControl.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\ZedGraph.xml
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.AssemblyReference.cache
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.DetectorForm.resources
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.Form1.resources
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.Properties.Resources.resources
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.GenerateResource.cache
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.CoreCompileInputs.cache
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.csproj.CopyComplete
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.exe
+C:\Users\oxiel\OneDrive\Desktop\PIA_Procesamiento\obj\Debug\PIA_Procesamiento.pdb
